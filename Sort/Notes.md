@@ -8,11 +8,12 @@ ____
 * 比较类排序：通过比较来决定元素间的相对次序，由于其时间复杂度不能突破O(nlogn)，因此也称为非线性时间比较类排序。
 * 非比较类排序：不通过比较来决定元素间的相对次序，它可以突破基于比较排序的时间下界，以线性时间运行，因此也称为线性时间非比较类排序。
 
-![sortCompare](https://github.com/FeiZhao0531/BasicAlgorithm/blob/master/raw/master/picture/sortCompare.png)
+![sortSorts](https://github.com/FeiZhao0531/BasicAlgorithm/blob/master/raw/master/picture/sortSorts.png)
+
 
 ### 2.算法复杂度
 
-![sortSorts](https://github.com/FeiZhao0531/BasicAlgorithm/blob/master/raw/master/picture/sortSorts.png)
+![sortCompare](https://github.com/FeiZhao0531/BasicAlgorithm/blob/master/raw/master/picture/sortCompare.png)
              
 ### 3.算法接口形式
 不唯一，但是为了方便记忆，可以如以下统一：
