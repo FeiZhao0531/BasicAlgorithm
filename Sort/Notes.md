@@ -13,10 +13,6 @@ ____
 
 
 ### 2.算法复杂度
-<<<<<<< HEAD
-![sortSorts](https://github.com/FeiZhao0531/BasicAlgorithm/blob/master/raw/master/picture/sortCompare.png)
-=======
-
 ![sortCompare](https://github.com/FeiZhao0531/BasicAlgorithm/blob/master/raw/master/picture/sortCompare.png)
              
 ### 3.算法接口形式
