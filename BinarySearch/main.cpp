@@ -5,7 +5,7 @@ class Solution {
 public:
     int binarySearch( int arr[], int n, int target) {
 
-        int l = 0, r = n-1;
+        int l = 0, r = n-1; // in the range of arr[l,r] to find the target
         while( l <= r) {
             int mid = l + 0.5*( r - l);
             if( arr[mid] > target)
