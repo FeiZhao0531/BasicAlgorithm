@@ -1,3 +1,6 @@
+///  quick Sort
+///  author: Fei Zhao
+///  creating time: May-5-2019
 #include <iostream>
 using namespace std;
 
@@ -10,7 +13,7 @@ public:
 
         int l = low - 1, // arr[ low, l] < pivot
             r = high + 1, // arr[ r, high] > pivot
-             i = low + 1; // arr[ l+1, i-1] = pivot
+            i = low + 1; // arr[ l+1, i-1] = pivot
         int pivot = arr[low]; // random index = rand()%( high - low + 1) + low
         while( i < r) {
             if( arr[i] > pivot) {

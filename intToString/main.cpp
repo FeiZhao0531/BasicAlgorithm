@@ -1,3 +1,7 @@
+///  integers to string
+///  author: Fei Zhao
+///  creating time: May-2-2019
+
 #include <iostream>
 #include <string>
 #include <algorithm>

@@ -1,3 +1,7 @@
+///  bubble sort
+///  author: Fei Zhao
+///  creating time: May-2-2019
+
 #include <iostream>
 #include <cassert>
 #include <vector>

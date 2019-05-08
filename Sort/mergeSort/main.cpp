@@ -1,3 +1,7 @@
+///  merge sort
+///  author: Fei Zhao
+///  creating time: May-5-2019
+
 #include <iostream>
 using namespace std;
 
