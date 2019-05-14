@@ -21,7 +21,3 @@ ____
 * 冒泡排序、插入排序、希尔排序、选择排序和堆排序的排序方法接口均是sort(int arr[],int len)的形式，其中len是序列长度。
 * 归并排序由于需要临时数组存放两有序表合并的结果，排序方法接口是sort(int arr[],int tmp[],int low,int high)
 * 快速排序不需要临时数组，其排序方法接口是sort(int arr[],int low,int high)。
-=======
-* 冒泡排序、插入排序、希尔排序、选择排序和堆排序的排序方法接口均是sort(int[] arr,int len)的形式，其中len是序列长度。
-* 归并排序由于需要临时数组存放两有序表合并的结果，排序方法接口是sort(int[] arr,int [] tmp,int low,int high)
-* 快速排序不需要临时数组，其排序方法接口是sort(int[] arr,int low,int high)。
