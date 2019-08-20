@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1566244708 source:c:\users\zhaof\documents\sourcecode\algorithm\graph\densegraph.cpp
+	"DenseGraph.h"
+	<cassert>
+	<iostream>
+
+1566247553 c:\users\zhaof\documents\sourcecode\algorithm\graph\densegraph.h
+	<vector>
+
+1566258963 source:c:\users\zhaof\documents\sourcecode\algorithm\graph\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"SparseGraph.h"
+	"DenseGraph.h"
+	"ReadGraph.h"
+	"Component.h"
+	"Path.h"
+	"ShortestPath.h"
+
+1566244192 c:\users\zhaof\documents\sourcecode\algorithm\graph\sparsegraph.h
+	<vector>
+
+1566244109 c:\users\zhaof\documents\sourcecode\algorithm\graph\readgraph.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<cassert>
+
+1566228877 source:c:\users\zhaof\documents\sourcecode\algorithm\graph\readgraph.cpp
+	"ReadGraph.h"
+	<iostream>
+	<fstream>
+	<sstream>
+
+1566244302 source:c:\users\zhaof\documents\sourcecode\algorithm\graph\sparsegraph.cpp
+	"SparseGraph.h"
+	<cassert>
+	<iostream>
+
+1566242326 c:\users\zhaof\documents\sourcecode\algorithm\graph\readgraph.cpp
+
+1566255242 c:\users\zhaof\documents\sourcecode\algorithm\graph\component.h
+	<iostream>
+	<cassert>
+
+1566257987 c:\users\zhaof\documents\sourcecode\algorithm\graph\path.h
+	<iostream>
+	<cassert>
+	<stack>
+	<vector>
+
+1566258931 c:\users\zhaof\documents\sourcecode\algorithm\graph\shortestpath.h
+	<iostream>
+	<cassert>
+	<queue>
+	<vector>
+
