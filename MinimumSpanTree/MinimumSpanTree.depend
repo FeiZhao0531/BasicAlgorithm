@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1566244302 source:c:\users\zhaof\documents\sourcecode\algorithm\minimumspantree\sparsegraph.cpp
+	"SparseGraph.h"
+	<cassert>
+	<iostream>
+
+1566328742 c:\users\zhaof\documents\sourcecode\algorithm\minimumspantree\sparsegraph.h
+	<iostream>
+	<cassert>
+	<vector>
+	"Edge.h"
+
+1566309794 c:\users\zhaof\documents\sourcecode\algorithm\minimumspantree\densegraph.cpp
+	"DenseGraph.h"
+	<cassert>
+	<iostream>
+
+1566314498 c:\users\zhaof\documents\sourcecode\algorithm\minimumspantree\densegraph.h
+	<vector>
+	<cassert>
+	<iostream>
+	"Edge.h"
+
+1566310912 c:\users\zhaof\documents\sourcecode\algorithm\minimumspantree\edge.h
+	<iostream>
+	<cassert>
+
+1566340424 source:c:\users\zhaof\documents\sourcecode\algorithm\minimumspantree\main.cpp
+	<iostream>
+	<iomanip>
+	"DenseGraph.h"
+	"SparseGraph.h"
+	"ReadGraph.h"
+	"Edge.h"
+	"LazyPrimMST.h"
+
+1566309028 c:\users\zhaof\documents\sourcecode\algorithm\minimumspantree\readgraph.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<cassert>
+
+1566340492 c:\users\zhaof\documents\sourcecode\algorithm\minimumspantree\lazyprimmst.h
+	<iostream>
+	<vector>
+	<cassert>
+	"Edge.h"
+	"MinHeap.h"
+
+1566340505 c:\users\zhaof\documents\sourcecode\algorithm\minimumspantree\minheap.h
+	<iostream>
+	<cassert>
+	<algorithm>
+
